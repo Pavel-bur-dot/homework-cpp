@@ -1,5 +1,3 @@
 #include <gtest/gtest.h>
+#include "max_element.hpp"
 
-TEST(Test, Simple) {
-  ASSERT_EQ(1, 1);  // Stack []
-}

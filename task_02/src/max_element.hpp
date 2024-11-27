@@ -1,0 +1,1 @@
+int get_max_element(int* arr[] , int len);
