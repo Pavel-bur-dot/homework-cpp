@@ -1,4 +1,4 @@
-
+#include "rotate.hpp"
 #include <gtest/gtest.h>
 
 TEST(TopologySort, Simple) {
