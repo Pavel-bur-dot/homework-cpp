@@ -1,13 +1,14 @@
 #include <iostream>
-#include "rotate.hpp"
+#include "shift.hpp"
+
 int main() 
 try
 {
     setlocale(LC_ALL, "RU");
 
     int array[5]{ 1, 2, 3, 4, 5};
-    int len = 5;
-    int N = 2;
+    size_t len = 5;
+    unsigned int N = 2;
     
     rotate(array, len, N);
 

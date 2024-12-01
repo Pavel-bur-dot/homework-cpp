@@ -1,1 +1,0 @@
-void rotate(int* arr, len, N);
