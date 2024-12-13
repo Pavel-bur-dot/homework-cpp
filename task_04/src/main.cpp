@@ -10,7 +10,7 @@ try
     size_t len = 5;
     unsigned int N = 2;
     
-    rotate(array, len, N);
+    shift(array, len, N);
 
     std::cout << "Сдвинутый  массив:" << std::endl;
 
